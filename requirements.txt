@@ -1,0 +1,6 @@
+streamlit==1.32.2
+tensorflow-cpu==2.15.0
+opencv-python-headless
+numpy
+matplotlib
+gdown
